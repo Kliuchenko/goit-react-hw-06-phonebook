@@ -4,7 +4,6 @@ import { ContactsList } from './ContactList/ContactList';
 import { Filter } from './Filter';
 
 export const App = () => {
-
     return (
       <>
         <Section title="Phonebook">
